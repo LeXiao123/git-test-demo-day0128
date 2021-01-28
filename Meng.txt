@@ -10,7 +10,15 @@ Hello git
 ///
 
 
+<<<<<<< Updated upstream
 增加临时功能
 xxxxxx
 xxxx
 
+=======
+当前整在开发的内容共：
+xxxxxx
+xxxx
+xx
+x
+>>>>>>> Stashed changes
